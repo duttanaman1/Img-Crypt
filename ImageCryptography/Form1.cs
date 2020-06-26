@@ -83,7 +83,7 @@ namespace ImageCryptography
           var c = "";
           ProgressBar_decrypt.Value = i;
           int temp;
-          for (temp = i; ImageHex[temp] != '-'; temp++) c = c + ImageHex[temp];
+          for (temp = i; ImageHex[temp] == '-'; temp++) c = c + ImageHex[temp];
           i = temp;
           var xx = Convert.ToInt32(c);
           decryptResponse = decryptResponse + (char)RSAalgorithm.BigMod(xx, _d, _n);
