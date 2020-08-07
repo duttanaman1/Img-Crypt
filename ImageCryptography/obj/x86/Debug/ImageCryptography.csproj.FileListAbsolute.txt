@@ -1,0 +1,9 @@
+C:\Users\Rishav\source\repos\ImageCryptography-master\ImageCryptography\bin\Debug\ImageCryptography.exe
+C:\Users\Rishav\source\repos\ImageCryptography-master\ImageCryptography\bin\Debug\ImageCryptography.pdb
+C:\Users\Rishav\source\repos\ImageCryptography-master\ImageCryptography\obj\x86\Debug\ImageCryptography.csprojAssemblyReference.cache
+C:\Users\Rishav\source\repos\ImageCryptography-master\ImageCryptography\obj\x86\Debug\ImageCryptography.Form1.resources
+C:\Users\Rishav\source\repos\ImageCryptography-master\ImageCryptography\obj\x86\Debug\ImageCryptography.Properties.Resources.resources
+C:\Users\Rishav\source\repos\ImageCryptography-master\ImageCryptography\obj\x86\Debug\ImageCryptography.csproj.GenerateResource.cache
+C:\Users\Rishav\source\repos\ImageCryptography-master\ImageCryptography\obj\x86\Debug\ImageCryptography.csproj.CoreCompileInputs.cache
+C:\Users\Rishav\source\repos\ImageCryptography-master\ImageCryptography\obj\x86\Debug\ImageCryptography.exe
+C:\Users\Rishav\source\repos\ImageCryptography-master\ImageCryptography\obj\x86\Debug\ImageCryptography.pdb
